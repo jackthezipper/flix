@@ -14,7 +14,7 @@
   "main": "./server/bin.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asapach/peerflix-server.git"
+    "url": "https://github.com/jackthezipper/flix.git"
   },
   "keywords": [
     "bittorrent",
